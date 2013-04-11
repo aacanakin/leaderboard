@@ -1,0 +1,201 @@
+[09-Apr-2013 15:13:12 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[09-Apr-2013 15:13:22 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[09-Apr-2013 15:18:47 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[09-Apr-2013 15:41:06 UTC] Error [errno:256] - error occured in custom query : Unknown column 'u.id' in 'field list' query : <pre>select u.id, u.name, s.level, s.total_exp
+				  from leaderboard.user u inner join leaderboard.score s 
+				  on u.id = s.user_id
+				  order by s.total_exp desc
+				  limit 0, 100;</pre> on line : 157, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/db/mysql/driver.class.2.php
+[09-Apr-2013 15:41:06 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[09-Apr-2013 15:41:27 UTC] Error [errno:256] - error occured in custom query : Unknown column 'u.id' in 'on clause' query : <pre>select u.user_id, u.name, s.level, s.total_exp
+				  from leaderboard.user u inner join leaderboard.score s 
+				  on u.id = s.user_id
+				  order by s.total_exp desc
+				  limit 0, 100;</pre> on line : 157, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/db/mysql/driver.class.2.php
+[09-Apr-2013 15:41:27 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[09-Apr-2013 15:41:43 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[09-Apr-2013 15:43:44 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[09-Apr-2013 15:48:11 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[09-Apr-2013 15:49:09 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[09-Apr-2013 16:23:42 UTC] Error [errno:8] - Use of undefined constant HELPER_PATH - assumed 'HELPER_PATH' on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/controller.class.php
+[09-Apr-2013 16:23:42 UTC] Error [errno:8] - Use of undefined constant HELPER_PATH - assumed 'HELPER_PATH' on line : 64, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/controller.class.php
+[09-Apr-2013 16:23:42 UTC] Error [errno:256] - helper : usergen not found in file : HELPER_PATH/usergen.php on line : 64, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/controller.class.php
+[09-Apr-2013 16:23:42 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[09-Apr-2013 16:24:33 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 12:30:58 UTC] Error [errno:256] - controller leaderboard does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:23:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/bot.php on line 146
+[11-Apr-2013 13:23:17 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:23:28 UTC] Error [errno:2] - array_slice() expects parameter 1 to be array, boolean given on line : 140, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/bot.php
+[11-Apr-2013 13:23:28 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:23:43 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/bot.php on line 139
+[11-Apr-2013 13:23:43 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:23:50 UTC] Error [errno:2] - array_slice() expects parameter 1 to be array, boolean given on line : 140, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/bot.php
+[11-Apr-2013 13:23:50 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:24:29 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:24:46 UTC] PHP Fatal error:  Call-time pass-by-reference has been removed in /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/bot.php on line 140
+[11-Apr-2013 13:24:47 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:24:55 UTC] PHP Fatal error:  Call-time pass-by-reference has been removed in /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/bot.php on line 140
+[11-Apr-2013 13:24:55 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:24:59 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:36:00 UTC] Error [errno:256] - error occured in update query : Unknown column 'lvl' in 'field list' query : <pre>update leaderboard.score set lvl="total_exp +47076 / 1000", week_exp="week_exp + 47076", today_exp="today_exp +47076" where user_id="34"</pre> on line : 447, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/db/mysql/driver.class.2.php
+[11-Apr-2013 13:36:00 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:39:42 UTC] Error [errno:256] - error occured in update query : Unknown column 'lvl' in 'field list' query : <pre>update leaderboard.score set lvl="total_exp +87802 / 1000", week_exp="week_exp + 87802", today_exp="today_exp +87802" where user_id="39"</pre> on line : 447, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/db/mysql/driver.class.2.php
+[11-Apr-2013 13:39:42 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:43:31 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:44:14 UTC] Error [errno:8] - Undefined index: score on line : 20, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/controller.class.php
+[11-Apr-2013 13:44:14 UTC] PHP Fatal error:  Call to a member function reset_yesterday() on a non-object in /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/bot.php on line 69
+[11-Apr-2013 13:44:14 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:44:34 UTC] Error [errno:256] - error occured in update query : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 query : <pre>update leaderboard.score set yesterday_exp="0" where </pre> on line : 447, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/db/mysql/driver.class.2.php
+[11-Apr-2013 13:44:35 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:46:29 UTC] Error [errno:8] - Undefined index: error on line : 75, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/bot.php
+[11-Apr-2013 13:46:30 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:46:43 UTC] Error [errno:8] - Undefined index: error on line : 75, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/bot.php
+[11-Apr-2013 13:46:43 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:47:40 UTC] Error [errno:8] - Undefined index: error on line : 75, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/bot.php
+[11-Apr-2013 13:47:40 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:49:18 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:51:46 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:52:06 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:52:14 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:53:11 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:58:39 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:59:13 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 13:59:40 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:02:02 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:02:08 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:11:29 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:12:09 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:12:32 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:13:07 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:13:08 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:13:45 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:16:29 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:16:52 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:16:52 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:16:52 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:16:53 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:16:53 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:16:53 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:16:53 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:16:54 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:17:07 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:26 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:26 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:26 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:27 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:27 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:27 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:27 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:27 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:28 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:28 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:28 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:28 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:28 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:29 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:29 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:29 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:29 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:30 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:30 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:30 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:30 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:31 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:31 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:31 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:32 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:32 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:19:32 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:20:30 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:21:33 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:21:48 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:22:00 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:22:44 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:23:23 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:23:44 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:24:20 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:26:21 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:27:11 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:28:39 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:29:00 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:31:08 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:31:40 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 14:33:25 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:02:52 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:03:34 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:03:38 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:05:12 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:05:31 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:13:54 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:14:52 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:14:54 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:14:54 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:14:54 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:14:55 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:14:55 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:14:55 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:14:55 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:14:56 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:14:56 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:14:56 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:14:56 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:14:56 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:14:57 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:14:57 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:14:57 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:14:57 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:16:58 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:18:58 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:19:55 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:20:36 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:24:54 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:24:56 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:29:03 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:29:49 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:36:28 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:36:32 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:37:14 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:37:49 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:38:05 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:39:36 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:40:17 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:40:25 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:40:28 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:41:39 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:44:22 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:44:56 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:45:56 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:46:22 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:47:19 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:47:35 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:47:52 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:48:40 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:49:12 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:49:36 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:50:05 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:51:00 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 15:51:23 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:01:05 UTC] Error [errno:256] - error occured in custom query : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'false' at line 5 query : <pre>select u.user_id, u.name, s.level, s.today_exp
+				  from leaderboard.user u inner join leaderboard.score s
+				  on u.user_id = s.user_id
+				  order by s.today_exp, s.level desc
+				  limit 0, false;</pre> on line : 159, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/db/mysql/driver.class.2.php
+[11-Apr-2013 16:01:05 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:01:11 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:01:25 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:01:29 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:02:33 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:02:59 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:03:02 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:03:05 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:03:25 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:03:31 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:04:50 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:06:15 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:06:40 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:06:46 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:07:07 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:07:57 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:08:00 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:08:26 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[11-Apr-2013 16:08:31 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
