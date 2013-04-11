@@ -6,7 +6,10 @@ class BotController extends Controller
 		$this->load_model('bot');
 		$this->load_model('score');
 		
+		$this->load_helper('leaderboard');
 		$this->load_helper('usergen');
+		
+		Leaderboard::get_instance();
 	}
 	
 	private function http_auth()
@@ -38,15 +41,17 @@ class BotController extends Controller
 	{
 		if( $this->http_auth())
 		{
+			$count = intval( $count);
 			// each call of this function generates 100 user
 			for( $i = 0; $i < $count; $i++)
 			{							
 				$user = UserGen::get_instance()->generate();
 				
-				$add_user = $this->bot->add_user( $user['name'], $user['lvl'], $user['total_exp'], $user['week_exp'], $user['yesterday_exp'], $user['today_exp']);
+				$add_user = $this->bot->add_user( $user['name']);
 				if( !$add_user['user']['error'] || !$add_user['score']['error'])
 				{
-					echo '<br>User : ' . $user['name'] . ' , total_exp : ' . $user['total_exp'] . ' , week_exp : ' . $user['week_exp'] . ' , today_exp : ' .$user['today_exp'] . ' , yesterday_exp : ' . $user['yesterday_exp'] . ' created successfully<br>';
+					Leaderboard::get_instance()->update_member( $add_user['user']['insert_id'], $user['name'], 0, 0, 0, 0, 0);
+					echo '<br>User : ' . $user['name'] . ' created successfully!</br>';
 				}			
 				else
 				{
@@ -69,6 +74,7 @@ class BotController extends Controller
 		$return = array();
 	
 		$move_yesterday = $this->score->move_yesterday();
+		
 		if( !$move_yesterday['error'] && $move_yesterday['affected_rows'] > 0)
 		{
 			$reset_yesterday = $this->score->reset_today();

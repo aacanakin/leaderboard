@@ -19,12 +19,12 @@ class UserGen
 	
 	public function __clone()
 	{
-		trigger_error('cloning UserGen instance is not allowed', E_USER_ERROR);
+		trigger_error('Cloning UserGen instance is not allowed', E_USER_ERROR);
 	}
 	
 	public function __wakeup()
 	{
-		trigger_error('unserializing is not allowed.', E_USER_ERROR);
+		trigger_error('Unserializing is not allowed.', E_USER_ERROR);
 	}
 	
 	public function generate()

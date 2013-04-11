@@ -4,6 +4,10 @@ class AjaxController extends Controller
 	function before_load()
 	{
 		$this->load_model('score');
+		
+		$this->load_helper('leaderboard');
+		
+		Leaderboard::get_instance();
 	}
 	
 	function leaderboard( $type = 'total', $amount = 10)

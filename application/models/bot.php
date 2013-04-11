@@ -1,7 +1,7 @@
 <?php
 class BotModel extends Model
 {		
-	function add_user( $name, $lvl, $total_exp, $week_exp, $yesterday_exp, $today_exp)
+	function add_user( $name)
 	{
 		$options_user = array( 'insert_id', 'ignore');
 		$values_user = array( 'name' => $name);
@@ -10,7 +10,7 @@ class BotModel extends Model
 		if( $return['user']['insert_id'] > 0)
 		{
 			$options_score = array( 'affected_rows', 'ignore');
-			$values_score = array( 'user_id' => $return['user']['insert_id'], 'level' => $lvl, 'total_exp' => $total_exp, 'week_exp' => $week_exp, 'yesterday_exp' => $yesterday_exp, 'today_exp' => $today_exp);
+			$values_score = array( 'user_id' => $return['user']['insert_id']);
 						
 			$return['score'] = $this->db->insert( 'score', $values_score, $options_score); 
 		}
@@ -26,7 +26,7 @@ class BotModel extends Model
 			$new_total_exp = $get_user['value']['total_exp'] + $today_exp;
 			$new_week_exp = $get_user['value']['week_exp'] + $today_exp;
 			$new_today_exp = $get_user['value']['today_exp'] + $today_exp;
-			$new_lvl = intval($new_total_exp / 1000);			
+			$new_lvl = intval( $new_total_exp / 1000);			
 																		
 			$params = array( 'level' => $new_lvl, 'week_exp' => $new_week_exp, 'today_exp' => $new_today_exp, 'total_exp' => $new_total_exp);
 			$conditions = array( 'user_id' => $user_id);
