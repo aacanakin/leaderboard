@@ -208,3 +208,384 @@
 [11-Apr-2013 17:22:26 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
 [11-Apr-2013 18:35:03 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
 [11-Apr-2013 19:14:32 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:10:24 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:35:32 UTC] Error [errno:8] - Undefined index: user on line : 20, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/controller.class.php
+[12-Apr-2013 18:35:32 UTC] PHP Fatal error:  Call to a member function get_user() on a non-object in /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/bot.php on line 228
+[12-Apr-2013 18:35:32 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:35:50 UTC] PHP Fatal error:  Call to undefined method Redis::zIncryBy() in /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php on line 86
+[12-Apr-2013 18:35:50 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:36:11 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:38:38 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:39:09 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:39:09 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:39:14 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:39:23 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:40:47 UTC] PHP Fatal error:  Call to undefined method ScoreModel::get_users() in /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/bot.php on line 102
+[12-Apr-2013 18:40:47 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:41:39 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:41:53 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:42:00 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:42:01 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:42:38 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:43:07 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:43:29 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:43:43 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:43:58 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:44:06 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:44:08 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:44:28 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:44:52 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:45:07 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:45:17 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:45:47 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:49:10 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:51:34 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:52:50 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:52:50 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:52:51 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:52:52 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:52:54 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:56:01 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:56:01 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:57:34 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 18:58:16 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:03:33 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:04:16 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:04:31 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:04:34 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:05:08 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:25:41 UTC] Error [errno:2] - Redis::zrevrange() expects parameter 4 to be boolean, array given on line : 137, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 19:25:41 UTC] Error [errno:2] - Invalid argument supplied for foreach() on line : 142, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 19:25:41 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:27:11 UTC] Error [errno:8] - Undefined offset: 1 on line : 146, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 19:27:11 UTC] Error [errno:8] - Undefined offset: 1 on line : 146, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 19:27:11 UTC] Error [errno:8] - Undefined offset: 1 on line : 146, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 19:27:11 UTC] Error [errno:8] - Undefined offset: 1 on line : 146, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 19:27:11 UTC] Error [errno:8] - Undefined offset: 1 on line : 146, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 19:27:11 UTC] Error [errno:8] - Undefined offset: 1 on line : 146, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 19:27:11 UTC] Error [errno:8] - Undefined offset: 1 on line : 146, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 19:27:11 UTC] Error [errno:8] - Undefined offset: 1 on line : 146, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 19:27:11 UTC] Error [errno:8] - Undefined offset: 1 on line : 146, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 19:27:11 UTC] Error [errno:8] - Undefined offset: 1 on line : 146, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 19:27:11 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:27:37 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:30:45 UTC] Error [errno:256] - error occured in custom query : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where 1' at line 1 query : <pre>delete score where 1</pre> on line : 159, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/db/mysql/driver.class.2.php
+[12-Apr-2013 19:30:45 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:31:48 UTC] Error [errno:256] - error occured in custom query : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where 1' at line 1 query : <pre>delete score where 1</pre> on line : 159, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/db/mysql/driver.class.2.php
+[12-Apr-2013 19:31:48 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:32:16 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:32:40 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:32:49 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:36:25 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php on line 66
+[12-Apr-2013 19:36:25 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:36:37 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:48:27 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:49:08 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:49:42 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:50:05 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:58:37 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:59:21 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 19:59:25 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 20:00:48 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 20:11:51 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 20:14:16 UTC] Error [errno:256] - controller function doesnt exist, controller : bot , action : build_user_base on line : 53, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 20:14:16 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 20:14:31 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 20:14:57 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 20:15:56 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 20:16:01 UTC] Error [errno:8] - Undefined index: debug on line : 20, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/ajax.php
+[12-Apr-2013 20:16:01 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 20:16:08 UTC] Error [errno:256] - error occured in custom query : Undeclared variable: leaderboard query : <pre>select u.user_id, u.name, s.level, s.total_exp
+				  from leaderboard.user u inner join leaderboard.score s 
+				  on u.user_id = s.user_id
+				  order by s.total_exp desc
+				  limit 0, leaderboard;</pre> on line : 159, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/db/mysql/driver.class.2.php
+[12-Apr-2013 20:16:08 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 20:16:11 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 20:36:30 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 20:37:26 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:14:10 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:14:13 UTC] Error [errno:8] - Undefined index: leaderboard on line : 19, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/ajax.php
+[12-Apr-2013 22:14:13 UTC] Error [errno:8] - Undefined index: debug on line : 20, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/ajax.php
+[12-Apr-2013 22:14:14 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:14:18 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:18 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:18 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:18 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:18 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:18 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:18 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:18 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:18 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:18 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:18 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:14:29 UTC] Error [errno:8] - Undefined index: leaderboard on line : 19, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/ajax.php
+[12-Apr-2013 22:14:29 UTC] Error [errno:8] - Undefined index: debug on line : 20, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/ajax.php
+[12-Apr-2013 22:14:29 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:14:42 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:42 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:42 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:42 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:42 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:42 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:42 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:42 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:42 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:42 UTC] Error [errno:8] - Undefined offset: 1 on line : 221, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:14:42 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:16:17 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:16:53 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:16:55 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:16:56 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:17:00 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:17:00 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:17:01 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:17:02 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:17:02 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:17:03 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:17:03 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:17:04 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:17:05 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:17:06 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:17:06 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:17:07 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:17:15 UTC] Error [errno:8] - Undefined offset: 1 on line : 171, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:17:15 UTC] Error [errno:8] - Undefined offset: 1 on line : 171, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:17:15 UTC] Error [errno:8] - Undefined offset: 1 on line : 171, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:17:15 UTC] Error [errno:8] - Undefined offset: 1 on line : 171, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:17:15 UTC] Error [errno:8] - Undefined offset: 1 on line : 171, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:17:15 UTC] Error [errno:8] - Undefined offset: 1 on line : 171, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:17:15 UTC] Error [errno:8] - Undefined offset: 1 on line : 171, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:17:15 UTC] Error [errno:8] - Undefined offset: 1 on line : 171, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:17:15 UTC] Error [errno:8] - Undefined offset: 1 on line : 171, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:17:15 UTC] Error [errno:8] - Undefined offset: 1 on line : 171, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:17:16 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:17:19 UTC] Error [errno:8] - Undefined index: leaderboard on line : 19, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/ajax.php
+[12-Apr-2013 22:17:19 UTC] Error [errno:8] - Undefined index: debug on line : 20, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/ajax.php
+[12-Apr-2013 22:17:19 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:20:10 UTC] Error [errno:8] - Undefined index: leaderboard on line : 19, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/ajax.php
+[12-Apr-2013 22:20:10 UTC] Error [errno:8] - Undefined index: debug on line : 20, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/ajax.php
+[12-Apr-2013 22:20:10 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:20:11 UTC] Error [errno:8] - Undefined index: leaderboard on line : 19, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/ajax.php
+[12-Apr-2013 22:20:11 UTC] Error [errno:8] - Undefined index: debug on line : 20, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/ajax.php
+[12-Apr-2013 22:20:11 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:20:11 UTC] Error [errno:8] - Undefined index: leaderboard on line : 19, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/ajax.php
+[12-Apr-2013 22:20:11 UTC] Error [errno:8] - Undefined index: debug on line : 20, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/ajax.php
+[12-Apr-2013 22:20:11 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:22:08 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:22:24 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:22:41 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:23:57 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:23:59 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:24:03 UTC] Error [errno:8] - Undefined index: leaderboard on line : 19, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/ajax.php
+[12-Apr-2013 22:24:03 UTC] Error [errno:8] - Undefined index: debug on line : 20, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/ajax.php
+[12-Apr-2013 22:24:03 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:24:07 UTC] Error [errno:2] - Redis::zrevrange() expects parameter 4 to be boolean, array given on line : 139, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:07 UTC] Error [errno:2] - Invalid argument supplied for foreach() on line : 145, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:07 UTC] Error [errno:8] - Undefined index: leaderboard on line : 19, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/ajax.php
+[12-Apr-2013 22:24:07 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:23 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:24:24 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:8] - Undefined offset: 1 on line : 149, in file : /home/ari/Desktop/jnn/projects/leaderboard/helpers/leaderboard.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 22:43:59 UTC] Error [errno:256] - controller favicon.ico does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 23:08:12 UTC] Error [errno:256] - controller change_day does not exist on line : 58, in file : /home/ari/Desktop/jnn/projects/leaderboard/library/router.class.php
+[12-Apr-2013 23:13:38 UTC] Error [errno:8] - Undefined index: debug on line : 22, in file : /home/ari/Desktop/jnn/projects/leaderboard/application/controllers/ajax.php

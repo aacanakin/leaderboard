@@ -3,6 +3,8 @@ class ScoreModel extends Model
 {
 	function get_total_ranking( $amount)
 	{
+		$msc = microtime( true);
+						
 		$options = array( 'fetch_assoc');
 		
 		$query = "select u.user_id, u.name, s.level, s.total_exp
@@ -12,11 +14,18 @@ class ScoreModel extends Model
 				  limit 0, {$amount};
 				 ";
 		
-		return $this->db->query( $query, $options);
+		$return = $this->db->query( $query, $options);
+				
+		$msc = microtime( true) - $msc;
+		$return['debug']['exec_time'] = $msc * 1000 . ' ms';
+		
+		return $return;		
 	}
 	
 	function get_weekly_ranking( $amount)
 	{
+		$msc = microtime( true);
+		
 		$options = array( 'fetch_assoc');
 		
 		$query = "select u.user_id, u.name, s.level, s.week_exp
@@ -26,11 +35,18 @@ class ScoreModel extends Model
 				  limit 0, {$amount};
 				 ";
 		
-		return $this->db->query( $query, $options);
+		$return = $this->db->query( $query, $options);
+				
+		$msc = microtime( true) - $msc;
+		$return['debug']['exec_time'] = $msc * 1000 . ' ms';
+		
+		return $return;		
 	}
 	
 	function get_yesterday_ranking( $amount)
 	{
+		$msc = microtime( true);
+		
 		$options = array( 'fetch_assoc');
 		
 		$query = "select u.user_id, u.name, s.level, s.yesterday_exp
@@ -40,11 +56,18 @@ class ScoreModel extends Model
 				  limit 0, {$amount};
 				 ";
 		
-		return $this->db->query( $query, $options);
+		$return = $this->db->query( $query, $options);
+				
+		$msc = microtime( true) - $msc;
+		$return['debug']['exec_time'] = $msc * 1000 . ' ms';
+		
+		return $return;	
 	}
 	
 	function get_today_ranking( $amount)
 	{
+		$msc = microtime( true);
+		
 		$options = array( 'fetch_assoc');
 		
 		$query = "select u.user_id, u.name, s.level, s.today_exp
@@ -54,7 +77,12 @@ class ScoreModel extends Model
 				  limit 0, {$amount};
 				 ";
 		
-		return $this->db->query( $query, $options);
+		$return = $this->db->query( $query, $options);
+		
+		$msc = microtime( true) - $msc;
+		$return['debug']['exec_time'] = $msc * 1000 . ' ms';
+		
+		return $return;
 	}
 	
 	function reset_today()
