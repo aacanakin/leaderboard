@@ -180,6 +180,7 @@
 ##Limitations
 - It currently can build only 100 users. It's not dynamic because of random generation in bot functions
 - Redis retrieval does not seem to bring much difference. But it is a lot faster with bigger inputs according to time complexities
+- leaderboard ajax call redis response may not be same with mysql when all `exp` values are set to 0
 
 ##Framework Info
 ariba is a lightweight php framework
