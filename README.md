@@ -182,6 +182,11 @@
 - Redis retrieval does not seem to bring much difference. But it is a lot faster with bigger inputs according to time complexities
 - leaderboard ajax call redis response may not be same with mysql when all `exp` values are set to 0
 
+##Why use ariba ?
+- It's lightweight and easy to implement
+- Database driver of mysql is great. Simple select, insert, update, delete, call queries can be done by `$this->db->select()` so fast.
+- Smarty integration
+
 ##Framework Info
 ariba is a lightweight php framework
 
