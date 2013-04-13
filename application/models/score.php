@@ -1,6 +1,10 @@
 <?php
 class ScoreModel extends Model
 {
+	// score model functions
+	// rankings are only used in debug:true
+	// each $this->db->function returns error with value ( if a query is selective)
+	
 	function get_total_ranking( $amount)
 	{
 		$msc = microtime( true);

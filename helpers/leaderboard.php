@@ -2,6 +2,9 @@
 define( "REDIS_HOST", 'localhost');
 define( "REDIS_PORT", 6379);
 
+// leaderboard helper using redis connection
+// @todo: redis should be inside model functions, it is not so convenient to use redis inside helper
+
 class Leaderboard
 {
 	private static $_leaderboard;
@@ -35,13 +38,18 @@ class Leaderboard
 	}
 	
 	// alias of build_user_base in redis part	
+
+	// every table items keyed with {user_id}_{user_name}
+	
+	// function removes redis tables, re-creates with all scores set to 0
+	// time complexity : O( log(N) + N) + O( log(N))
 	public function init( $users = array())
 	{
 		// initialize table
 		foreach( $users as $a_user)
 		{
 			$key = $a_user['user_id'] . '_' . $a_user['name'];
-			//zRemRangeByRank('key', 0, 1);
+
 			$this->_redis->zRemRangeByRank('leaderboard_total', 0, 100);
 			$this->_redis->zRemRangeByRank( 'leaderboard_level', 0, 100);
 			$this->_redis->zRemRangeByRank( 'leaderboard_total', 0, 100);
@@ -64,6 +72,8 @@ class Leaderboard
 				
 	}
 		
+	// updates level value of a given user with id & name
+	// time complexity : O( log(N))
 	public function update_level( $user_id, $user_name, $level)
 	{
 		$key = $user_id . '_' . $user_name;
@@ -72,6 +82,8 @@ class Leaderboard
 		$this->_redis->zAdd( 'leaderboard_level', $level, $key);					
 	}
 	
+	// updates total_exp value of a given user with id & name
+	// time complexity : O( log(N))
 	public function update_total_exp( $user_id, $user_name, $total_exp)
 	{
 		$key = $user_id . '_' . $user_name;
@@ -79,6 +91,8 @@ class Leaderboard
 		$this->_redis->zAdd( 'leaderboard_total', $total_exp, $key);		
 	}
 	
+	// updates week_exp value of a given user with id & name
+	// time complexity : O( log(N))
 	public function update_week_exp( $user_id, $user_name, $week_exp)
 	{
 		$key = $user_id . '_' . $user_name;
@@ -86,6 +100,8 @@ class Leaderboard
 		$this->_redis->zAdd( 'leaderboard_week', $week_exp, $key);		
 	}		
 	
+	// updates yesterday_exp value of a given user with id & name
+	// time complexity : O( log(N))
 	public function update_yesterday_exp( $user_id, $user_name, $yesterday_exp)
 	{
 		$key = $user_id . '_' . $user_name;
@@ -93,6 +109,8 @@ class Leaderboard
 		$this->_redis->zAdd( 'leaderboard_yesterday', $yesterday_exp, $key);
 	}
 	
+	// updates today_exp value of a given user with id & name
+	// time complexity : O( log(N))
 	public function update_today_exp( $user_id, $user_name, $today_exp)
 	{
 		$key = $user_id . '_' . $user_name;
@@ -100,7 +118,8 @@ class Leaderboard
 		$this->_redis->zAdd( 'leaderboard_today', $today_exp, $key);
 	}
 
-	// deletes leaderboard:week table
+	// sets every item inside leaderboard_week table to zero given an array of users with id & name
+	// time complexity : O( log(N))
 	public function reset_week( $users = array())
 	{
 		foreach( $users as $a_user)
@@ -111,8 +130,9 @@ class Leaderboard
 		}				
 	}
 	
-	// deletes leaderboard:today table
-	// updates 
+	// moves every item inside leaderboard_yesterday to leaderboard_today
+	// sets every item inside leaderboard_today to zero given an array of users with id & name
+	// time complexity : O( 2 * log(N)) + 2 * O( 1) = O (log( N)) 
 	public function reset_day( $users = array())
 	{
 		foreach( $users as $a_user)
@@ -126,6 +146,12 @@ class Leaderboard
 		}				
 	}
 		
+	// returns the leaderboard array given type, player_count and debug mode
+	// type can be total, week, yesterday and today
+	// player_count can be [1,100]
+	// debug can be true, false
+	// time complexity : O( log(N) + M) + O( M) = O( M)
+	
 	public function get_rankings( $type = 'total', $player_count = 10, $debug = false)
 	{
 		$return = array();

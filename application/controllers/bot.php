@@ -38,6 +38,10 @@ class BotController extends Controller
 		}
 	}
 		
+	// initializes database
+	// deletes user and score database table, redis tables if any exists, set user auto_increment value to 1
+	// inserts 100 random player with all score values set to zero
+	// return error : true | false, msg being the status
 	function init()
 	{
 		if( $this->http_auth())
@@ -86,6 +90,8 @@ class BotController extends Controller
 		}
 	}
 	
+	// moves every today_exp into yesterday_exp in both redis & mysql tables
+	// initializes today_exp field to 0 in both redis & mysql tables
 	function change_day( $ajax = true)
 	{
 		// reset yesterday
@@ -146,6 +152,7 @@ class BotController extends Controller
  		
 	}
 	
+	// initializes week_exp value to 0 in both mysql & redis tables of all users
 	function change_week( $ajax = true)
 	{
 		if( $this->http_auth())
@@ -194,7 +201,10 @@ class BotController extends Controller
 		
 	}
 	
-	// $player_count : indicates how many random players to simulate	
+	// simulates the game
+	// randomly gets ids from [1,100]
+	// chooses play_count times random player to play
+	// generates a today_exp value of a user and updates today_exp, week_exp, total_exp according to generated today_exp in both mysql and redis tables
 	
 	function simulate( $player_count = 100, $ajax = true)
 	{

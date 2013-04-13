@@ -1,6 +1,8 @@
 <?php
 class UserModel extends Model
 {
+	// basic selective queries to get a single user and get all users
+	
 	function get_users()
 	{
 		$params = array( 'user_id', 'name');

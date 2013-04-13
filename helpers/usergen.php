@@ -1,6 +1,9 @@
 <?php
 class UserGen
 {
+	// generates a user name with get_random_string()
+	// class is singleton, it is called by UserGen::get_instance()->{function_name()}
+	
 	private static $_user_gen;
 	
 	private function __construct()

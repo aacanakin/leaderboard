@@ -15,6 +15,8 @@ class BotModel extends Model
 		return $return;
 	}
 	
+	// adds a new user with name
+	// all other fields are set to zero
 	function add_user( $name)
 	{
 		$options_user = array( 'insert_id', 'ignore');
@@ -32,6 +34,7 @@ class BotModel extends Model
 		return $return;
 	}
 	
+	// updates a user given user id, level, total_exp, week_exp, today_exp
 	function update_user( $user_id, $level, $total_exp, $week_exp, $today_exp)
 	{																						
 		$params = array( 'level' => $level, 'week_exp' => $week_exp, 'today_exp' => $today_exp, 'total_exp' => $total_exp);
