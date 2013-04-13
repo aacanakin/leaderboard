@@ -184,7 +184,7 @@
 
 ##Why use ariba ?
 - It's lightweight and easy to implement
-- Database driver of mysql is great. Simple select, insert, update, delete, call queries can be done by `$this->db->select()` so fast.
+- Database driver of mysql is great. Simple select, insert, update, delete, call queries can be done by `$this->db->select()`. So easy =)
 - Smarty integration
 
 ##Framework Info
