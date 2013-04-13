@@ -4,7 +4,7 @@
 - It uses redis for getting highscores
 - It has a single ajax service call that returns top players given player_count & type
 - Optionally, it returns mysql result if debug mode is on in ajax service call
-- It has a bot features that automatically generates user data randomly and sets them accordingly
+- It has bot features that automatically generates user data randomly and sets them accordingly
 
 ##Installation ( Ubuntu 12.10 )
 ### Framework Pre-Requisites 
