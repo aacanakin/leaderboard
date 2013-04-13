@@ -79,6 +79,103 @@
 - Use http://local.leaderboard/ajax/leaderboard/yesterday/1 returns the most successful player in terms of `week_exp`
 - Debug mode changes the return type
 - Debug mode adds mysql execution and redis execution times to compare
+- An example return type with no debugging enabled;
+- URL : http://local.leaderboard.com/ajax/leaderboard/today/5 returns the following data;
+
+```
+{
+    "leaderboard": [
+        {
+            "user_id": "97",
+            "name": "KsIeSX",
+            "today_exp": 672913,
+            "level": 917
+        },
+        {
+            "user_id": "58",
+            "name": "EaKrl",
+            "today_exp": 671042,
+            "level": 1140
+        },
+        {
+            "user_id": "64",
+            "name": "ViQGVDZuu",
+            "today_exp": 549257,
+            "level": 1453
+        },
+        {
+            "user_id": "8",
+            "name": "oewQPKpYoT",
+            "today_exp": 537762,
+            "level": 1266
+        },
+        {
+            "user_id": "55",
+            "name": "qIWaREPOqk",
+            "today_exp": 489068,
+            "level": 911
+        }
+    ]
+}
+```
+
+- URL : http://local.leaderboard.com/ajax/leaderboard/total/3/true returns the following data;
+
+```
+{
+    "redis": {
+        "leaderboard": [
+            {
+                "user_id": "33",
+                "name": "BePOtHM",
+                "total_exp": 1754875,
+                "level": 1754
+            },
+            {
+                "user_id": "36",
+                "name": "HGD",
+                "total_exp": 1753479,
+                "level": 1753
+            },
+            {
+                "user_id": "64",
+                "name": "ViQGVDZuu",
+                "total_exp": 1453688,
+                "level": 1453
+            }
+        ],
+        "debug": {
+            "exec_time": "0.20480155944824 ms"
+        }
+    },
+    "mysql": {
+        "leaderboard": [
+            {
+                "user_id": "33",
+                "name": "BePOtHM",
+                "level": "1754",
+                "total_exp": "1754875"
+            },
+            {
+                "user_id": "36",
+                "name": "HGD",
+                "level": "1753",
+                "total_exp": "1753479"
+            },
+            {
+                "user_id": "64",
+                "name": "ViQGVDZuu",
+                "level": "1453",
+                "total_exp": "1453688"
+            }
+        ],
+        "debug": {
+            "exec_time": "0.80704689025879 ms"
+        }
+    },
+    "error": false
+}
+```
  
 ##Limitations
 - It currently can build only 100 users. It's not dynamic because of random generation in bot functions
